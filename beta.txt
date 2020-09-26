@@ -1,3 +1,6 @@
 two type of beta 
 
 2 positive beta is called positron
+
+range (1,12):
+    print "ali"
